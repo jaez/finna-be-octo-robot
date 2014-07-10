@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Dgdollartest2
+Comment=Dgdollartest2 P2P Cryptocurrency
+Comment[fr]=Dgdollartest2, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Dgdollartest2, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/dgdollartest2-qt %u
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/dgdollartest2128.png
+MimeType=x-scheme-handler/dgdollartest2;
+Categories=Office;

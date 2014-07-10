@@ -1,0 +1,11 @@
+[Protocol]
+exec=dgdollartest2-qt '%u'
+protocol=dgdollartest2
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

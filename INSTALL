@@ -1,0 +1,9 @@
+Building Dgdollartest2
+
+See doc/readme-qt.rst for instructions on building Dgdollartest2-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Dgdollartest2.
+
+See doc/build-*.txt for instructions on building dgdollartest2d,
+the intended-for-services, no-graphical-interface, reference
+implementation of Dgdollartest2.

@@ -1,0 +1,6 @@
+dgdollartest2-qt usr/bin
+share/pixmaps/dgdollartest232.xpm usr/share/pixmaps
+share/pixmaps/dgdollartest216.xpm usr/share/pixmaps
+share/pixmaps/dgdollartest2128.png usr/share/pixmaps
+debian/dgdollartest2-qt.desktop usr/share/applications
+debian/dgdollartest2-qt.protocol usr/share/kde4/services/
